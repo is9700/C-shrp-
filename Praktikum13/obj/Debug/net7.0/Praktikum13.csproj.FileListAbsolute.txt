@@ -1,0 +1,15 @@
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\bin\Debug\net7.0\Praktikum13.exe
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\bin\Debug\net7.0\Praktikum13.deps.json
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\bin\Debug\net7.0\Praktikum13.runtimeconfig.json
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\bin\Debug\net7.0\Praktikum13.dll
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\bin\Debug\net7.0\Praktikum13.pdb
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.csproj.AssemblyReference.cache
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.AssemblyInfoInputs.cache
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.AssemblyInfo.cs
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.csproj.CoreCompileInputs.cache
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.dll
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\refint\Praktikum13.dll
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.pdb
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\Praktikum13.genruntimeconfig.cache
+C:\Users\souss\OneDrive - FHDO - PROD\Desktop\Ismail\STUDIUM\actual semester\PK2\Praktikums\ismail\Praktikum13\obj\Debug\net7.0\ref\Praktikum13.dll
